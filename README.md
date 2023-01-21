@@ -2,6 +2,8 @@
 
 Tool for crop planning - reuploaded for organization & clarity purposes
 
+Live version on github.io (in progress)
+
 * Multiple year planning
 * Import/export plans
 * Greenhouse plans separated from outdoor Farm plans

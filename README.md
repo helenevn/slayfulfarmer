@@ -1,6 +1,6 @@
 # slayfulfarmer
 
-Tool for crop planning - reuploaded for organization & clarity purposes
+Help min/max crops in Stardew - reuploaded for organization & clarity purposes
 
 Live version on github.io (in progress)
 

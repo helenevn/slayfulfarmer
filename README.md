@@ -1,6 +1,6 @@
 # slayfulfarmer
 
-tool for crop planning - reuploaded for organization & clarity purposes
+Tool for crop planning - reuploaded for organization & clarity purposes
 
 * Multiple year planning
 * Import/export plans
